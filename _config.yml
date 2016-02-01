@@ -1,7 +1,7 @@
 name: Crypto Currency Design
 favicon: null
-layout_spectrum: 0.16601957916282117
-typography_spectrum: 0.6558176570106298
+layout_spectrum: 0.89767
+typography_spectrum: 0.50781
 title: Cryptocurrency Design
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.6166440660599619
+  brandStrength: 0.5
   lightness: 0.012381241889670491
   saturation: 0.2980929894838482
   rhythmicContrast: 0.8274173650424927
