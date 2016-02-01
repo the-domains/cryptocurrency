@@ -1,0 +1,28 @@
+name: Crypto Currency Design
+favicon: null
+layout_spectrum: 0.16601957916282117
+typography_spectrum: 0.6558176570106298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6166440660599619
+  lightness: 0.012381241889670491
+  saturation: 0.2980929894838482
+  rhythmicContrast: 0.8274173650424927
+purpose: []
