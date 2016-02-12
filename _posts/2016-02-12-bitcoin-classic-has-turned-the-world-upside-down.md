@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://cointelegraph.com/news/bitcoin-classic-has-turned-the-world-upside-down'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-12T22:04:50.902Z'
-dateModified: '2016-02-12T22:04:41.103Z'
+datePublished: '2016-02-12T22:05:17.349Z'
+dateModified: '2016-02-12T22:05:14.879Z'
 author: []
 title: 'Bitcoin Classic Has Turned The World Upside Down!'
 authors: []
